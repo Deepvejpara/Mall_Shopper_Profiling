@@ -1,9 +1,12 @@
+> **Try it out live:** 
+>[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mallshopperprofiling-6ah2wdyqtkejkpsryiklb3.streamlit.app/)
+
+
 # Customer Segmentation Analysis
 
 This repository contains the Exploratory Data Analysis (EDA) and clustering models applied to a Mall Customer dataset. The goal of this project is to segment customers based on their annual income and spending behaviors to identify distinct target groups for marketing strategies.
 
 ---
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mallshopperprofiling-6ah2wdyqtkejkpsryiklb3.streamlit.app/)
 
 ## 📊 Exploratory Data Analysis (EDA) Summary
 
