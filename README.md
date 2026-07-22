@@ -1,6 +1,6 @@
 > **Try it out live:** 
 >[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mallshopperprofiling-6ah2wdyqtkejkpsryiklb3.streamlit.app/)
-
+>[![Project_Overview](https://drive.google.com/drive/folders/1O3iRH-VSd7jtpULtAuZxcoTNcIfelcJq?usp=sharing)
 # 🛍️ Mall Shopper Profiling (Customer Segmentation)
 
 A Machine Learning project that segments mall customers into distinct groups based on their purchasing behavior using multiple clustering techniques.
