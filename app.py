@@ -25,7 +25,7 @@ if st.button("Predict Persona"):
     scaled_data = scaler.transform(input_data)
     
     # Predict cluster/persona
-    prediction = model.predict(scaled_data)
+    prediction = model.predict(scaled_data).item()
 
     profiles = {
         0: {
