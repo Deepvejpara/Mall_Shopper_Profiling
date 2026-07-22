@@ -1,7 +1,7 @@
 > **Try it out live:** 
 >[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mallshopperprofiling-6ah2wdyqtkejkpsryiklb3.streamlit.app/)
 
-[Project_Overview](https://drive.google.com/drive/folders/10NcWlPVNkTZO0mtHnCxU9CmaJDvOZdlA?usp=drive_link)
+[Project_Overview](https://drive.google.com/drive/folders/1O3iRH-VSd7jtpULtAuZxcoTNcIfelcJq?usp=drive_link)
 
 # 🛍️ Mall Shopper Profiling (Customer Segmentation)
 
