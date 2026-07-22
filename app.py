@@ -26,5 +26,30 @@ if st.button("Predict Persona"):
     
     # Predict cluster/persona
     prediction = model.predict(scaled_data)
-    
-    st.success(f"Predicted Customer Persona: {prediction[0]}")
+
+    profiles = {
+        0: {
+            "title": "🎯 Target / High Spenders", 
+            "desc": "High Income, High Spending Score. Prime audience for luxury marketing and premium brand releases."
+        },
+        1: {
+            "title": "⚖️ Standard / Moderate", 
+            "desc": "Average Income, Moderate Spending Score. Responsive to balanced promotions and everyday value deals."
+        },
+        2: {
+            "title": "⚠️ Cautious / Savers", 
+            "desc": "High Income, Low Spending Score. Potential for conversion with high-value offers, emphasizing quality and durability."
+        },
+        3: {
+            "title": "🛍️ Careless / Impulsive Spenders", 
+            "desc": "Low Income, High Spending Score. Highly engaged with fast-fashion, flash sales, and trendy discounts."
+        },
+        4: {
+            "title": "📉 Sensible / Low Spenders", 
+            "desc": "Low Income, Low Spending Score. Price-sensitive budget shoppers looking for necessities and deep discounts."
+        }
+    }
+    st.divider()
+    st.success(f"**Assigned Segment:** Cluster {prediction}")
+    st.markdown(f"### {persona['title']}")
+    st.info(persona['desc'])
