@@ -1,5 +1,5 @@
 > **Try it out live:** 
->[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mallshopperprofiling-6ah2wdyqtkejkpsryiklb3.streamlit.app/)
+>[![Streamlit App]](https://mallshopperprofiling-6ah2wdyqtkejkpsryiklb3.streamlit.app/)
 
 
 # Customer Segmentation Analysis
