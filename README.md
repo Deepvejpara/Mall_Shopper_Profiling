@@ -7,7 +7,7 @@ A Machine Learning project that segments mall customers into distinct groups bas
 
 Check out the video walkthrough of this project to understand how it works and see the results in action:
 
-🔗 **Try here:** [Model Demo Video](https://mallshopperprofiling6ah2wdyqtkejkpsryiklb3.streamlit.app/)
+🔗 **Try here:** [Model Demo Video](https://mallshopperprofiling-6ah2wdyqtkejkpsryiklb3.streamlit.app/)
 
 ---
 
